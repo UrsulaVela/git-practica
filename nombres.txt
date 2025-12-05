@@ -1,6 +1,2 @@
 Ursula Vela desde la rama de Ursula
-<<<<<<< HEAD
 Hola desde la rama principal
-=======
-Hola conflicto
->>>>>>> conflicto
